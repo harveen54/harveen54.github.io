@@ -95,54 +95,43 @@ analytics:
 # Site Author
 author:
   name             : "Harveen Singh Chadha"
-  avatar           : /assets/images/bio/harveen.png"
+  avatar           : "/assets/images/bio/harveen.png"
   bio              : "Data Scientist at Thoughtworks."
   location         : "India"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:harveen54@gmail.com"
+    
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/harveenchadha"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/HarveenChadha"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url: "https://www.facebook.com/harveen54"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/harveenchadha"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/harveenchadha"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/harveen.chadha/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:harveen54@gmail.com"
 
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/harveenchadha"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/HarveenChadha"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/harveenchadha"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/harveenchadha"
-    # - label: "GitLab"
-    #   icon: "fab fa-fw fa-gitlab"
-    #   # url:
-    # - label: "Bitbucket"
-    #   icon: "fab fa-fw fa-bitbucket"
-    #   # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/harveen.chadha/"
