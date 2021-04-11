@@ -275,3 +275,25 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# Collections
+collections:
+  nlp:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  ml:
+    output: true
+    permalink: /:collection/:path/
+  st:
+    output: true
+    permalink: /:collection/:path/
+  bigdata:
+    output: true
+    permalink: /:collection/:path/
+  tuto:
+    output: true
+    permalink: /:collection/:path/
